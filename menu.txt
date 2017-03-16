@@ -1,4 +1,10 @@
+####### Welcome ##########
 Menu
+
 
 Tea
 Coffee
+
+
+Vanilla
+Chocolate
